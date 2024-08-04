@@ -14,7 +14,7 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 
 The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
 
-[https://github.com/MicheleMontesi/analysis_flutter/blob/54f002744861e56ba2295c27fc315f869b6d2924/android/app/src/main/AndroidManifest.xml](https://github.com/MicheleMontesi/analysis_flutter/blob/54f002744861e56ba2295c27fc315f869b6d2924/android/app/src/main/AndroidManifest.xml)
+https://github.com/MicheleMontesi/PrivacyPolicies/blob/ea5bef68e83adad7483a0e9cbf196a36656c315e/AnalysisDemonstration/AndroidManifest.xml#L50-L52
 
 | Permission | Why it is required |
 | :---: | --- |
